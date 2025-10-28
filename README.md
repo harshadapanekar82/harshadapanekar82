@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://www.istockphoto.com/photos/software-developer" alt="Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
+</p>
+
+
+
 # Hi there, I'm Harshada 👋  
 **💻 Frontend Developer | ⚛️ React Enthusiast**
 
