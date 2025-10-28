@@ -1,4 +1,4 @@
-# Hi there, I'm Harshada Panekar 👋  
+# Hi there, I'm Harshada 👋  
 **💻 Frontend Developer | ⚛️ React Enthusiast**
 
 ---
