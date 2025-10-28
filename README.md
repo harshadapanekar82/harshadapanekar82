@@ -1,5 +1,5 @@
 # Hi there, I'm Harshada Panekar 👋  
-**💻 Frontend Developer | ⚛️ React Enthusiast | 🎨 UI/UX Explorer**
+**💻 Frontend Developer | ⚛️ React Enthusiast**
 
 ---
 
