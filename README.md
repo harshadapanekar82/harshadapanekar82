@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.istockphoto.com/photos/software-developer" alt="Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
+  <img src="https://imgs.search.brave.com/vnQeQcY3Sltuarx2UUseFHd4K87L--LQM4Hpgx77fKQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTcw/MDU2NzIxMC9waG90/by9hLXNvZnR3YXJl/LWRldmVsb3BtZW50/LWRlc2lnbmVyLW9y/LXByb2dyYW1tZXIt/aXMtdHlwaW5nLW9u/LWEtY29tcHV0ZXIt/dG8tY3JlYXRlLWFu/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz1Xak1YeERaQUlT/ZjFWcDg0aG5BTERG/WTh0bXo0UDJFM1Jh/aFFnU2w2eUpjPQ" alt="Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
 </p>
 
 
