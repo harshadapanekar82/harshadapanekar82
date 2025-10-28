@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgs.search.brave.com/Vaj8IZCwzYRaN820YK7E8Bg0aleOZUFRyrUQXzIPbkE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/Mzg1ODQzMC92ZWN0/b3Ivd2Vic2l0ZS1z/b2Z0d2FyZS1kZXZl/bG9wbWVudC1jb25j/ZXB0LXdlYi1kZXNp/Z24tc2l0ZS1hbmQt/bW9iaWxlLWFwcC1v/bi1sYXB0b3AtdGVz/dGluZy1vbi5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9azhj/a0tzZ09yUFB4b2hB/QV95d2cyVlhaemRD/UHB0RWJPbGxlUlY4/S2I3Yz0" alt="Banner" width="50%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
+  <img src="https://imgs.search.brave.com/Vaj8IZCwzYRaN820YK7E8Bg0aleOZUFRyrUQXzIPbkE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/Mzg1ODQzMC92ZWN0/b3Ivd2Vic2l0ZS1z/b2Z0d2FyZS1kZXZl/bG9wbWVudC1jb25j/ZXB0LXdlYi1kZXNp/Z24tc2l0ZS1hbmQt/bW9iaWxlLWFwcC1v/bi1sYXB0b3AtdGVz/dGluZy1vbi5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9azhj/a0tzZ09yUFB4b2hB/QV95d2cyVlhaemRD/UHB0RWJPbGxlUlY4/S2I3Yz0" alt="Banner" width="70%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
 </p>
 
 
