@@ -1,10 +1,4 @@
-<p align="center">
-<img src="https://images.wallpapersden.com/image/wxl-anime-sad-girl-hd-developer_91400.jpg" alt="Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
-</p>
-
-![Anime](assets/developer_wxl.jpg)
-
-<img src="assets/developer_wxl.jpg" alt="Anime" width="900" height="500">
+<img src="assets/developer_wxl.jpg" alt="Anime" width="1000" height="500">
 
 
 # Hi there, I'm Harshada 👋  
