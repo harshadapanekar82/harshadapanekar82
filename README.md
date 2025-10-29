@@ -58,15 +58,11 @@ Here are a few projects I’ve worked on:
 
 ---
 
-## 📬 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/harshadapanekar82" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:harshadapanekar82@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 📫 How to reach me  
+
+📧 **Email:**  
+💼 **LinkedIn:** 
+🌐 **Portfolio:** 
 
 ---
 
