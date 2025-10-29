@@ -54,8 +54,6 @@ Here are a few projects I’ve worked on:
 - ☁️ **Weather App** – Real-time weather updates using OpenWeather API  
 - 🧭 **Todo App** – CRUD-based task manager with React hooks  
 
-*(More coming soon...)*
-
 ---
 
 ## 📫 How to reach me  
