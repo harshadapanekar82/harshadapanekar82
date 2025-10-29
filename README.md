@@ -4,7 +4,7 @@
 
 ![Anime](assets/developer_wxl.jpg)
 
-<img src="assets/developer_wxl.jpg" alt="Anime" width="900" height="200">
+<img src="assets/developer_wxl.jpg" alt="Anime" width="900" height="250">
 
 
 # Hi there, I'm Harshada 👋  
