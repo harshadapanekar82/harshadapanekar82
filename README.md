@@ -2,9 +2,7 @@
 <img src="https://images.wallpapersden.com/image/wxl-anime-sad-girl-hd-developer_91400.jpg" alt="Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
 </p>
 
-<p align="center">
-  <img src="https://images.wallpapersden.com/image/wxl-anime-sad-girl-hd-developer_91400.jpg" width="400" alt="Anime Sad Girl">
-</p>
+![Anime](assets/developer_wxl.jpg)
 
 # Hi there, I'm Harshada 👋  
 **💻 Frontend Developer | ⚛️ React Enthusiast**
