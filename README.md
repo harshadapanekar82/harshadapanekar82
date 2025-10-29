@@ -6,7 +6,6 @@
   <img src="https://images.wallpapersden.com/image/wxl-anime-sad-girl-hd-developer_91400.jpg" width="400" alt="Anime Sad Girl">
 </p>
 
-
 # Hi there, I'm Harshada 👋  
 **💻 Frontend Developer | ⚛️ React Enthusiast**
 
