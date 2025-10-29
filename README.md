@@ -2,8 +2,9 @@
 <img src="https://images.wallpapersden.com/image/wxl-anime-sad-girl-hd-developer_91400.jpg" alt="Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
 </p>
 
-![Anime Sad Girl](https://images.wallpapersden.com/image/wxl-anime-sad-girl-hd-developer_91400.jpg)
-
+<p align="center">
+  <img src="https://images.wallpapersden.com/image/wxl-anime-sad-girl-hd-developer_91400.jpg" width="400" alt="Anime Sad Girl">
+</p>
 
 
 # Hi there, I'm Harshada 👋  
