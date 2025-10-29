@@ -1,4 +1,4 @@
-<img src="assets/developer_wxl.jpg" alt="Anime" width="1000" height="450">
+<img src="assets/developer_wxl.jpg" alt="Anime" width="1000" height="500">
 
 
 # Hi there, I'm Harshada 👋  
