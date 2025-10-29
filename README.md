@@ -36,11 +36,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=harshadapanekar82&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=harshadapanekar82&theme=tokyonight)
 
