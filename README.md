@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://images.wallpapersden.com/image/download/anime-sad-girl-hd-developer_bmZpZWWUmZqaraWkpJRmbmpnrWZmZ2U.jpg" alt="Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
+<img src="https://images.wallpapersden.com/image/wxl-anime-sad-girl-hd-developer_91400.jpg" alt="Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
 </p>
 
 
