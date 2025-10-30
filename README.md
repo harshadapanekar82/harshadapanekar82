@@ -2,9 +2,9 @@
 
 <img src="assets/ai-image.png" alt="Anime">
 
-I’m a React Developer passionate about building interactive, scalable, and high-performing web applications.
-I love creating seamless user experiences and writing clean, reusable code using modern JavaScript frameworks.
-Currently exploring React, Next.js, TypeScript, Tailwind CSS, and front-end performance optimization.
+I’m a React Developer passionate about building interactive, scalable, and high-performing web applications.  <br>
+I love creating seamless user experiences and writing clean, reusable code using modern JavaScript frameworks.  <br>
+Currently exploring React, Next.js, TypeScript, Tailwind CSS, and front-end performance optimization.  <br>
 
 ---
 
