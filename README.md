@@ -52,7 +52,7 @@ Currently exploring React, Next.js, TypeScript, Tailwind CSS, and front-end perf
 ---
 
 ## 📊 GitHub Stats
-![Harshada's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshadapanekar82&show_icons=true&theme=tokyonight)
+![Harshada's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshadapanekar82&show_icons=true&theme=tokyonight)  <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshadapanekar82&layout=compact&theme=tokyonight)
 
 ---
