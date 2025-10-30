@@ -8,13 +8,13 @@ Currently exploring React, Next.js, TypeScript, Tailwind CSS, and front-end perf
 
 ---
 
-🔭 What I’m working on
-🚀 Building modern web applications with React & Next.js
-💻 Creating dynamic UIs using React Hooks, Context API & TypeScript
-🎨 Styling with Tailwind CSS and responsive design principles
-⚙️ Integrating RESTful APIs & optimizing front-end performance
-🧩 Exploring state management with Redux & React Query
-🧠 Learning best practices for component-driven architecture and testing (Jest, React Testing Library)
+## 🔭 What I’m working on
+- 🚀 Building modern web applications with React & Next.js
+- 💻 Creating dynamic UIs using React Hooks, Context API & TypeScript
+- 🎨 Styling with Tailwind CSS and responsive design principles
+- ⚙️ Integrating RESTful APIs & optimizing front-end performance
+- 🧩 Exploring state management with Redux & React Query
+- 🧠 Learning best practices for component-driven architecture and testing (Jest, React Testing Library)
 
 ---
 
