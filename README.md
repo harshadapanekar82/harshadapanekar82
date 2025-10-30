@@ -2,8 +2,9 @@
 
 <img src="assets/ai-image.png" alt="Anime">
 
-# Hi there, I'm Harshada 👋  
-**💻 Frontend Developer | ⚛️ React Enthusiast**
+I’m a React Developer passionate about building interactive, scalable, and high-performing web applications.
+I love creating seamless user experiences and writing clean, reusable code using modern JavaScript frameworks.
+Currently exploring React, Next.js, TypeScript, Tailwind CSS, and front-end performance optimization.
 
 ---
 
