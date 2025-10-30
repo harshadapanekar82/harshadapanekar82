@@ -18,11 +18,11 @@ Currently exploring React, Next.js, TypeScript, Tailwind CSS, and front-end perf
 
 ---
 
-🤝 Looking to Collaborate On
+## 🤝 Looking to Collaborate On
 
-🔹 Open-source React & Frontend projects
-🔹 Building dynamic web apps with React, Next.js, and TypeScript
-🔹 UI/UX improvements, performance optimization & modern design systems
+🔹 Open-source React & Frontend projects  <br>
+🔹 Building dynamic web apps with React, Next.js, and TypeScript  <br>
+🔹 UI/UX improvements, performance optimization & modern design systems <br>
 
 ---
 
