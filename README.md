@@ -1,5 +1,6 @@
 <img src="assets/developer_wxl.jpg" alt="Anime" width="1000" height="500">
 
+<img src="assets/ai-image.png" alt="Anime" width="1000" height="500">
 
 # Hi there, I'm Harshada 👋  
 **💻 Frontend Developer | ⚛️ React Enthusiast**
