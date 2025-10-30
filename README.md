@@ -28,9 +28,9 @@ Currently exploring React, Next.js, TypeScript, Tailwind CSS, and front-end perf
 
 ## 📫 How to reach me  
 
-📧 **Email:**  
-💼 **LinkedIn:** 
-🌐 **Portfolio:** 
+📧 **Email:**   <br>
+💼 **LinkedIn:**  <br>
+🌐 **Portfolio:**  <br>
 
 ---
 
