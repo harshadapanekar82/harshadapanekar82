@@ -26,6 +26,18 @@ Currently exploring React, Next.js, TypeScript, Tailwind CSS, and front-end perf
 
 ---
 
+## 📫 How to reach me  
+
+📧 **Email:**  
+💼 **LinkedIn:** 
+🌐 **Portfolio:** 
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=harshadapanekar82&color=blue&style=flat)
+
+---
+
 ## 🛠️ Tech Stack
 ### 💻 Languages & Frameworks
 - **JavaScript (ES6+), React.js, Next.js**
@@ -65,11 +77,7 @@ Here are a few projects I’ve worked on:
 
 ---
 
-## 📫 How to reach me  
 
-📧 **Email:**  
-💼 **LinkedIn:** 
-🌐 **Portfolio:** 
 
 ---
 
